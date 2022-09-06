@@ -1,2 +1,2 @@
 # Slash-Command-Portscanner
-A portscanner made in python which uses discord.py
+A portscan slash commnad made in discord.py 2.0.0a
