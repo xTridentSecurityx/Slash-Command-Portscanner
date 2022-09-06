@@ -7,7 +7,7 @@ from discord import commands, app_commands, Interaction, Embed
 from typing import Optional
 
 #a portscan command made by xTridentSecurityx | discord: La Kitty#1280
-class portscan(commands.GroupCog, name = 'portscan',  description = 'portscan an IP Address or URL'):
+class portscan(commands.GroupCog, name = 'portscan',  description = 'scan for command ports or scan a custom port of an IP Address or URL'):
     def __init__(self, bot):
         self.bot = bot
 
